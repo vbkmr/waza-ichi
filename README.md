@@ -33,7 +33,7 @@ It's built to be **scannable** and **accurate** — it won't invent readings, an
 it flags words whose reading changes the meaning (辛い = からい／つらい) instead of
 guessing.
 
-<details>
+<details open>
 <summary>Example output for <strong>台頭</strong></summary>
 
 > ## 台頭（たいとう）
@@ -54,6 +54,29 @@ guessing.
 
 </details>
 
+<details open>
+<summary>Example output for <strong>目を見張る</strong></summary>
+
+> ## 目（め）を見張（みは）る
+>
+> - **Meaning:** to open one's eyes wide (in surprise or admiration), to be struck/amazed
+> - **Kanji Breakdown:**
+>     - 目（め）= eye, 目的（もくてき "purpose"）
+>     - 見（み）る = to see, 見学（けんがく "observation visit"）
+>     - 張（は）る = to stretch/spread, 引（ひ）っ張る（ひっぱる "to pull"）
+>     - Literally: "to stretch one's eyes (wide)"
+> - **Type:** Idiom / Godan verb phrase (慣用句・五段動詞)
+> - **Nuance:** A vivid idiom for being so impressed or astonished that your eyes
+>   widen — usually positive, expressing admiration at remarkable growth, skill, or
+>   scenery.
+> - **Example Sentences:**
+>     - 彼女（かのじょ）の成長（せいちょう）には目を見張ることがある。
+>         - *Her growth is, at times, truly remarkable.*
+>
+> _(…key patterns like 目を見張るものがある, related words, and usage notes follow)_
+
+</details>
+
 ## Repository layout
 
 ```
@@ -70,14 +93,6 @@ waza-ichi/
 ├── README.md
 └── LICENSE
 ```
-
-## Adding more skills
-
-This marketplace is built to grow. To add a new plugin:
-
-1. Create `plugins/<your-plugin>/.claude-plugin/plugin.json`.
-2. Put its skill(s) under `plugins/<your-plugin>/skills/<skill-name>/SKILL.md`.
-3. Add an entry to the `plugins` array in `.claude-plugin/marketplace.json`.
 
 ## License
 
