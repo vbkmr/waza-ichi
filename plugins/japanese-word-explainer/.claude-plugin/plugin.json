@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "japanese-word-explainer",
+  "displayName": "Japanese Word Explainer",
+  "version": "1.0.0",
+  "description": "Detailed, study-reference explanations of Japanese words: kanji breakdowns, furigana, nuance and formality notes, natural example sentences, and side-by-side comparison tables.",
+  "author": {
+    "name": "vbkmr"
+  },
+  "license": "MIT",
+  "keywords": ["japanese", "nihongo", "kanji", "vocabulary", "language-learning", "furigana"]
+}

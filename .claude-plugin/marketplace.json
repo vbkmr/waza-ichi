@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "waza-ichi",
+  "owner": {
+    "name": "vbkmr",
+    "email": "vaibhav.iiitj@gmail.com"
+  },
+  "description": "技市 (Waza-Ichi), a 'skill market' — a marketplace of Claude skills for learning and working with the Japanese language.",
+  "plugins": [
+    {
+      "name": "japanese-word-explainer",
+      "source": "./plugins/japanese-word-explainer",
+      "description": "Detailed, study-reference explanations of Japanese words: kanji breakdowns, furigana, nuance and formality notes, example sentences, and comparison tables.",
+      "version": "1.0.0",
+      "author": {
+        "name": "vbkmr"
+      },
+      "license": "MIT",
+      "keywords": ["japanese", "nihongo", "kanji", "vocabulary", "language-learning", "furigana"],
+      "category": "education"
+    }
+  ]
+}
