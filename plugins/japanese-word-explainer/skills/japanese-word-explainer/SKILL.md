@@ -19,11 +19,11 @@ Every explanation MUST follow this template structure. Adapt sections as needed 
     - **[Kanji 1]** ([reading in this word]) = [meaning], as in [example word using this kanji] ([reading] = [meaning])
         - *Parts:* [radical (部首) + any other components, e.g. 氵 (water) + 青]; note which part is the **phonetic component (音符)** when the character is a 形声文字 (phono-semantic compound)
         - *Readings:* 音 [on'yomi in katakana] ／ 訓 [kun'yomi in hiragana]
-        - *Phonetic series:* [if phono-semantic, the sound the phonetic component lends + other common kanji that share it, e.g. 青（セイ）→ 清・晴・精・請]
+        - *Phonetic series:* [if phono-semantic, the sound the phonetic component lends + other common kanji that share it, e.g. 青（セイ）→ 清・晴・精・請] (omit if not applicable)
     - **[Kanji 2]** ([reading in this word]) = [meaning], as in [example word using this kanji] ([reading] = [meaning])
         - *Parts:* [radical (部首) + components]
         - *Readings:* 音 [on'yomi] ／ 訓 [kun'yomi]
-        - *Phonetic series:* [phonetic component + sibling kanji, when applicable]
+        - *Phonetic series:* [phonetic component + sibling kanji, when applicable] (omit if not applicable)
     - Literally: "[literal meaning combining both kanji]"
 - **Type:** [Part of speech in English + Japanese] (e.g., Noun (名詞), Godan verb (五段動詞))
 - **Nuance:** [2-3 sentences explaining the feeling, tone, and contexts where this word is used; mention formality level; note if literary, casual, formal, etc.]
