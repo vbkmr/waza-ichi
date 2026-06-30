@@ -16,8 +16,14 @@ Every explanation MUST follow this template structure. Adapt sections as needed 
 
 - **Meaning:** [English meanings, separated by commas]
 - **Kanji Breakdown:**
-    - [Kanji 1] ([reading]) = [meaning], [example word using this kanji]
-    - [Kanji 2] ([reading]) = [meaning], [example word using this kanji]
+    - **[Kanji 1]** ([reading in this word]) = [meaning], as in [example word using this kanji] ([reading] = [meaning])
+        - *Parts:* [radical (部首) + any other components, e.g. 氵 (water) + 青]; note which part is the **phonetic component (音符)** when the character is a 形声文字 (phono-semantic compound)
+        - *Readings:* 音 [on'yomi in katakana] ／ 訓 [kun'yomi in hiragana]
+        - *Phonetic series:* [if phono-semantic, the sound the phonetic component lends + other common kanji that share it, e.g. 青（セイ）→ 清・晴・精・請] (omit if not applicable)
+    - **[Kanji 2]** ([reading in this word]) = [meaning], as in [example word using this kanji] ([reading] = [meaning])
+        - *Parts:* [radical (部首) + components]
+        - *Readings:* 音 [on'yomi] ／ 訓 [kun'yomi]
+        - *Phonetic series:* [phonetic component + sibling kanji, when applicable] (omit if not applicable)
     - Literally: "[literal meaning combining both kanji]"
 - **Type:** [Part of speech in English + Japanese] (e.g., Noun (名詞), Godan verb (五段動詞))
 - **Nuance:** [2-3 sentences explaining the feeling, tone, and contexts where this word is used; mention formality level; note if literary, casual, formal, etc.]
@@ -154,9 +160,15 @@ A wrong reading or a fabricated example is worse than a missing one — a learne
 - Compare to English equivalents when helpful (e.g., "closer to 'the abyss' than simply 'the dark'")
 
 ### Kanji Breakdowns
-- Always give the reading of each kanji component
-- Provide at least one familiar example word using that kanji
-- Include the "Literally: ..." line combining the components — this helps with memorization
+For each kanji in the word, give:
+
+- **The reading it takes in this word**, plus its general **音読み（おんよみ, on'yomi** — the Chinese-derived reading, by convention written in katakana) and **訓読み（くんよみ, kun'yomi** — the native Japanese reading, written in hiragana). This is the core *phonetic information* — it shows the learner why the compound is voiced the way it is, and why the same kanji sounds different elsewhere.
+- **The component particles** — break the character into its visual parts. Name the **radical（部首・ぶしゅ）**, the classifying component dictionaries file the kanji under, and the broad sense it signals (e.g. 氵 → water, 扌 → hand, 心／忄 → heart/emotion). For a **形声文字（けいせいもじ**, phono-semantic compound — the majority of kanji), also point out the **phonetic component（音符・おんぷ）**: the part that hints at the sound rather than the meaning.
+- **The phonetic series**, when applicable — name other common kanji built on the same phonetic component and the sound they share, since these tend to be read alike. For example 青（セイ）recurs in 清・晴・精・請, most read セイ／ショウ. This turns one mnemonic into a whole family and is one of the most useful things a learner can take away.
+- **At least one familiar example word** using the kanji, with its reading and meaning.
+- **The "Literally: ..." line** combining the components — this helps with memorization.
+
+Accuracy still rules here (see above): only assert a radical-meaning link or a phonetic series when you are confident. Not every character is a clean phono-semantic compound — for 指事文字（しじもじ）/ 会意文字（かいいもじ）and irregular forms, give the radical and readings and simply omit the *Phonetic series* line rather than inventing a connection.
 
 ### Related Words
 - Choose 4-5 related words that a learner might confuse or want to know
@@ -187,5 +199,6 @@ When the user asks about two or more similar words/grammar points (indicated by 
 - Don't create walls of text without structure — use headers, bullets, and tables
 - Don't leave any new kanji word without its hiragana reading in （）on first appearance
 - Don't invent readings or example words to fill the template — accuracy beats completeness
+- Don't force a phonetic series or a radical-meaning story onto a kanji that isn't a phono-semantic compound — give the radical and readings and skip the phonetic line
 - Don't silently pick one reading for a word that has several with different meanings — flag the alternatives
 - Don't state uncertain facts (etymology, pitch accent, regional nuance) as if they were certain
