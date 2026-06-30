@@ -40,8 +40,14 @@ guessing.
 >
 > - **Meaning:** rise (to prominence), emergence, gaining power
 > - **Kanji Breakdown:**
->     - 台（たい）= platform/stand, 台風（たいふう "typhoon"）
->     - 頭（とう）= head, 先頭（せんとう "the lead/front"）
+>     - **台**（たい）= platform/stand, as in 台風（たいふう "typhoon"）
+>         - *Parts:* 厶 + 口（radical 口・くち "mouth"）; 台 also serves as a phonetic element
+>         - *Readings:* 音 タイ／ダイ ／ 訓 —（no common kun reading）
+>         - *Phonetic series:* 台（タイ）→ 怠（タイ "idle"）・胎（タイ "womb"）・苔（タイ "moss"）
+>     - **頭**（とう）= head, as in 先頭（せんとう "the lead/front"）
+>         - *Parts:* 豆 (phonetic) + 頁（radical おおがい — the "head/face" element in 顔・額・頬）
+>         - *Readings:* 音 トウ／ズ ／ 訓 あたま・かしら
+>         - *Phonetic series:* 豆（トウ）→ 登（トウ "climb"）・痘（トウ "smallpox"）
 >     - Literally: "head onto a platform" → rising up to a prominent position
 > - **Type:** Noun / suru-verb (名詞・する動詞)
 > - **Nuance:** Formal and somewhat literary. Common in news, business, and
@@ -96,9 +102,18 @@ guessing.
 >
 > - **Meaning:** to open one's eyes wide (in surprise or admiration), to be struck/amazed
 > - **Kanji Breakdown:**
->     - 目（め）= eye, 目的（もくてき "purpose"）
->     - 見（み）る = to see, 見学（けんがく "observation visit"）
->     - 張（は）る = to stretch/spread, 引（ひ）っ張る（ひっぱる "to pull"）
+>     - **目**（め）= eye, as in 目的（もくてき "purpose"）
+>         - *Parts:* pictograph of an eye（象形文字）; itself the "eye" radical, in 眼・眠・睡
+>         - *Readings:* 音 モク／ボク ／ 訓 め・ま
+>         - *Phonetic series:* — (pictograph, no phonetic component)
+>     - **見**（み）る = to see, as in 見学（けんがく "observation visit"）
+>         - *Parts:* 目 (eye) + 儿 (person)（会意文字 "person + eye → look"）; itself a radical in 視・親・観
+>         - *Readings:* 音 ケン ／ 訓 み・る
+>         - *Phonetic series:* — (ideographic, no phonetic component)
+>     - **張**（は）る = to stretch/spread, as in 引（ひ）っ張る（ひっぱる "to pull"）
+>         - *Parts:* 弓 (bow, radical) + 長 (phonetic)（形声文字）
+>         - *Readings:* 音 チョウ ／ 訓 は・る
+>         - *Phonetic series:* 長（チョウ）→ 帳（チョウ "notebook"）・脹（チョウ "swell"）
 >     - Literally: "to stretch one's eyes (wide)"
 > - **Type:** Idiom / Godan verb phrase (慣用句・五段動詞)
 > - **Nuance:** A vivid, slightly literary idiom for eyes widening from astonishment
